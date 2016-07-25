@@ -1,2 +1,3 @@
 # hello-world
-Test Project
+Test Project used for Learning.
+
